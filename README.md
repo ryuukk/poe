@@ -1,3 +1,8 @@
+
+
+### FUCK JAVASCRIPT, IT'S A ASS LANGUAGE
+
+
 Use Tampermonkey
 
 - go in pages with the gems
@@ -52,8 +57,6 @@ async function work()
             useCORS: true,
         })
         .then(function (canvas) {
-
-            // It will return a canvas element
             var titleNode = hover.children[0].children[0].children[1].children[0];
             var title = titleNode.innerHTML;
             console.log(title);
