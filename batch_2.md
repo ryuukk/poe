@@ -1,82 +1,164 @@
+# Earthquake of Amplification
+
 ![Earthquake of Amplification](https://github.com/ryuukk/poe/assets/44361234/50b9b18c-cc0b-48a0-83e7-085ddb4dd75c)
+
+# Ethereal Knives of the Massacre
 
 ![Ethereal Knives of the Massacre](https://github.com/ryuukk/poe/assets/44361234/46792e6a-ad4f-4643-bf87-6514e7e3b0ab)
 
+# Explosive Concoction of Destruction
+
 ![Explosive Concoction of Destruction](https://github.com/ryuukk/poe/assets/44361234/bea26d28-f3ea-4e67-bb77-7399540c49fd)
+
+# Explosive Trap of Magnitude
 
 ![Explosive Trap of Magnitude](https://github.com/ryuukk/poe/assets/44361234/9d0de069-ee9a-46b7-9a42-32773f8b3c89)
 
+# Explosive Trap of Shrapnel
+
 ![Explosive Trap of Shrapnel](https://github.com/ryuukk/poe/assets/44361234/d8d3c063-a8a4-4f4f-9e8e-36ff5c485de0)
+
+# Eye of Winter of Finality
 
 ![Eye of Winter of Finality](https://github.com/ryuukk/poe/assets/44361234/ca9e32ee-7405-4720-aa4d-6bc9e19d9ffb)
 
+# Eye of Winter of Transience
+
 ![Eye of Winter of Transience](https://github.com/ryuukk/poe/assets/44361234/8af5e097-fb4e-4f6f-a435-9042ae73804b)
+
+# Firestorm of Meteors
 
 ![Firestorm of Meteors](https://github.com/ryuukk/poe/assets/44361234/2cc23222-f146-4b45-be33-be89fd2c09e6)
 
+# Firestorm of Pelting
+
 ![Firestorm of Pelting](https://github.com/ryuukk/poe/assets/44361234/09363382-93b3-4efe-a072-587dd531e607)
+
+# Flame Dash of Return
 
 ![Flame Dash of Return](https://github.com/ryuukk/poe/assets/44361234/fab9cdda-1bdd-4037-a229-821b6a535877)
 
+# Flame Surge of Combusting
+
 ![Flame Surge of Combusting](https://github.com/ryuukk/poe/assets/44361234/1aac4159-ba4a-42ad-b8ef-e78974cf5f27)
+
+# Flameblast of Celerity
 
 ![Flameblast of Celerity](https://github.com/ryuukk/poe/assets/44361234/ee650001-5f7e-4ae7-b6ec-ab9aec260a25)
 
+# Flameblast of Contraction
+
 ![Flameblast of Contraction](https://github.com/ryuukk/poe/assets/44361234/873b02ae-3ff9-472b-a8d7-585bcc4c4388)
+
+# Flicker Strike of Power
 
 ![Flicker Strike of Power](https://github.com/ryuukk/poe/assets/44361234/54c47a18-f084-4627-a0ec-437a47e5856f)
 
+# Forbidden Rite of Soul Sacrifice
+
 ![Forbidden Rite of Soul Sacrifice](https://github.com/ryuukk/poe/assets/44361234/b57c4621-6274-4d8a-a5c1-bab68d1b7440)
+
+# Frost Bomb of Forthcoming
 
 ![Frost Bomb of Forthcoming](https://github.com/ryuukk/poe/assets/44361234/3a7b0f03-1f44-4ba3-a25a-9a1711b910a3)
 
+# Frost Bomb of Instability
+
 ![Frost Bomb of Instability](https://github.com/ryuukk/poe/assets/44361234/ba6f8282-6685-4922-ad9e-67a16162db5a)
+
+# Frostblink of Wintry Blast
 
 ![Frostblink of Wintry Blast](https://github.com/ryuukk/poe/assets/44361234/d8168e20-5c9c-4d89-9ef3-72a1bfbad109)
 
+# Frozen Legion of Rallying
+
 ![Frozen Legion of Rallying](https://github.com/ryuukk/poe/assets/44361234/dd8a14cd-b8bf-43a0-a935-d0cc447fe3ab)
+
+# Glacial Cascade of the Fissure
 
 ![Glacial Cascade of the Fissure](https://github.com/ryuukk/poe/assets/44361234/a7a46a88-27df-4a56-9d21-615d03fe42d6)
 
+# Glacial Hammer of Shattering
+
 ![Glacial Hammer of Shattering](https://github.com/ryuukk/poe/assets/44361234/ce90e9ac-05d7-48e7-a99a-4458a8c37e82)
+
+# Ground Slam of Earthshaking
 
 ![Ground Slam of Earthshaking](https://github.com/ryuukk/poe/assets/44361234/2dc31e69-71f0-4e1a-aee4-6b46fa4cc4ce)
 
+# Hexblast of Contradiction
+
 ![Hexblast of Contradiction](https://github.com/ryuukk/poe/assets/44361234/1b3b9ed5-8b8f-42fc-9452-561885846249)
+
+# Hexblast of Havoc
 
 ![Hexblast of Havoc](https://github.com/ryuukk/poe/assets/44361234/be3c1521-4ee4-4cc7-b67b-cf71a93a880a)
 
+# Holy Flame Totem of Ire
+
 ![Holy Flame Totem of Ire](https://github.com/ryuukk/poe/assets/44361234/fcba2395-7bad-4349-bdaa-20cbce489df2)
+
+# Ice Nova of Deep Freeze
 
 ![Ice Nova of Deep Freeze](https://github.com/ryuukk/poe/assets/44361234/e5c8bdff-09e0-499f-bd78-285984e60acb)
 
+# Ice Nova of Frostbolts
+
 ![Ice Nova of Frostbolts](https://github.com/ryuukk/poe/assets/44361234/76a7953d-5b21-4423-97b8-fb2d5ae8c0d4)
+
+# Ice Spear of Splitting
 
 ![Ice Spear of Splitting](https://github.com/ryuukk/poe/assets/44361234/24fd22d2-58aa-446e-a9bb-83a55e9fbb17)
 
+# Icicle Mine of Fanning
+
 ![Icicle Mine of Fanning](https://github.com/ryuukk/poe/assets/44361234/4a131018-d278-4701-940e-a612541b3876)
+
+# Icicle Mine of Sabotage
 
 ![Icicle Mine of Sabotage](https://github.com/ryuukk/poe/assets/44361234/44c980d3-5fee-4837-a235-5f6626abd105)
 
+# Infernal Blow of Immolation
+
 ![Infernal Blow of Immolation](https://github.com/ryuukk/poe/assets/44361234/23c089c8-62b6-4950-b50f-f52602f55e43)
+
+# Lancing Steel of Spraying
 
 ![Lancing Steel of Spraying](https://github.com/ryuukk/poe/assets/44361234/ccff224f-bff7-4226-aa9c-02869d62251d)
 
+# Leap Slam of Groundbreaking
+
 ![Leap Slam of Groundbreaking](https://github.com/ryuukk/poe/assets/44361234/34e0cda1-c9a4-4840-b0b5-a10e04e80d75)
+
+# Lightning Conduit of the Heavens
 
 ![Lightning Conduit of the Heavens](https://github.com/ryuukk/poe/assets/44361234/43c6b7b6-aa25-4be5-8bd7-9b5a31f9ad23)
 
+# Lightning Spire Trap of Overloading
+
 ![Lightning Spire Trap of Overloading](https://github.com/ryuukk/poe/assets/44361234/10370c86-b951-4e06-80bf-8138b8193d03)
+
+# Lightning Spire Trap of Zapping
 
 ![Lightning Spire Trap of Zapping](https://github.com/ryuukk/poe/assets/44361234/39f70a86-ad27-4186-b7b9-c2f1e09c4269)
 
+# Lightning Strike of Arcing
+
 ![Lightning Strike of Arcing](https://github.com/ryuukk/poe/assets/44361234/fdfc6e9e-eb1a-4847-836e-7b50327cf4e6)
+
+# Lightning Tendrils of Eccentricity
 
 ![Lightning Tendrils of Eccentricity](https://github.com/ryuukk/poe/assets/44361234/0582febf-7545-4db5-9630-5f2e1eb55fd0)
 
+# Lightning Tendrils of Escalation
+
 ![Lightning Tendrils of Escalation](https://github.com/ryuukk/poe/assets/44361234/5f6730f9-1634-4d51-8c45-6b4933a95985)
 
+# Mirror Arrow of Bombarding Clones
+
 ![Mirror Arrow of Bombarding Clones](https://github.com/ryuukk/poe/assets/44361234/a8479782-236a-4abc-a3c9-4108f5d36f6e)
+
+# Mirror Arrow of Prismatic Clones
 
 ![Mirror Arrow of Prismatic Clones](https://github.com/ryuukk/poe/assets/44361234/a1a65f1c-f04f-4a79-b0c4-1229155701f6)
 
