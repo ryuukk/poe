@@ -12,8 +12,9 @@ Use Tampermonkey
 
 urls:
 
-- https://www.pathofexile.com/forum/view-thread/3452098
-- https://www.pathofexile.com/forum/view-thread/3452250
+- B1: https://www.pathofexile.com/forum/view-thread/3452098
+- B2: https://www.pathofexile.com/forum/view-thread/3452250
+- B3: https://www.pathofexile.com/forum/view-thread/3452473
 
 ```js
 // ==UserScript==
