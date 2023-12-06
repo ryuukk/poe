@@ -24,6 +24,7 @@ urls:
 // @author       You
 // @match        https://www.pathofexile.com/forum/view-thread/3452098
 // @match        https://www.pathofexile.com/forum/view-thread/3452250
+// @match        https://www.pathofexile.com/forum/view-thread/3452473
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=pathofexile.com
 // @grant        none
 // @require      https://html2canvas.hertzen.com/dist/html2canvas.min.js
@@ -56,13 +57,14 @@ async function work()
             allowTaint: true,
             useCORS: true,
         })
-        .then(function (canvas) {
+        .then(function (c) {
+
+            // It will return a canvas element
             var titleNode = hover.children[0].children[0].children[1].children[0];
             var title = titleNode.innerHTML;
             console.log(title);
-            const image = canvas.toDataURL("image/png")
 
-            canvas.toBlob(function (blob) {
+            c.toBlob(function (blob) {
                 zip.file(title+".png", blob);
             });
 
@@ -75,7 +77,10 @@ async function work()
         });
     }
 
-    zip.generateAsync({type : "blob"})
+    await new Promise(r => setTimeout(r, 2000));
+
+
+    await zip.generateAsync({type : "blob"})
         .then(zip_blob => {
         const dl = document.createElement("a");
         dl.href = URL.createObjectURL(zip_blob);
