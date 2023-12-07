@@ -15,6 +15,7 @@ urls:
 - B1: https://www.pathofexile.com/forum/view-thread/3452098
 - B2: https://www.pathofexile.com/forum/view-thread/3452250
 - B3: https://www.pathofexile.com/forum/view-thread/3452473
+- B4: https://www.pathofexile.com/forum/view-thread/3452554
 
 ```js
 // ==UserScript==
@@ -26,6 +27,7 @@ urls:
 // @match        https://www.pathofexile.com/forum/view-thread/3452098
 // @match        https://www.pathofexile.com/forum/view-thread/3452250
 // @match        https://www.pathofexile.com/forum/view-thread/3452473
+// @match        https://www.pathofexile.com/forum/view-thread/3452554
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=pathofexile.com
 // @grant        none
 // @require      https://html2canvas.hertzen.com/dist/html2canvas.min.js
